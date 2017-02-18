@@ -17,6 +17,7 @@ html {
  */
 
 body {
+  color: white;
   margin: 0;
 }
 
@@ -87,7 +88,9 @@ template {
  */
 
 a {
+  color: white;
   background-color: transparent;
+ 
 }
 
 /**
