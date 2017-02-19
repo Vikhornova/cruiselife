@@ -47,6 +47,11 @@
   margin: 0px;
   float: left;
   } 
+.column2 { 
+  position: relative; 
+  margin: 0px;
+  float: left;
+  }
 
 
 /* For devices larger than 200px */
@@ -57,11 +62,12 @@
     margin-left: 20px;}
     .column1 { 
      position: relative; 
-     margin-left: 40px;} 
+     margin-left: 0px;} 
      }
   .column2 { 
      position: relative; 
-     margin-left: 100px;} 
+     margin-left: 40px;
+     margin-bottom: 120px; } 
     }
 }
 
