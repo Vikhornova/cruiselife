@@ -158,8 +158,12 @@ p {
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-#locator { position: relative; visibility: visible; left: 20px; bottom: 300px; z-index: 200; } 
-
+locator1 { position: relative; visibility: visible; left: 40px; bottom: 300px; z-index: 200; } 
+/* For devices larger than 400px */
+@media (min-width: 400px) {
+  locator1 { position: relative; visibility: visible; left: 10px; bottom: 10px; z-index: 10; } 
+}
+  
 /* video { 
       margin: 100px 100px 100px 100px; } 
 /*    <!--  top right bottom left   --> */
