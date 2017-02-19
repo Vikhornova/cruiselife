@@ -30,7 +30,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
   max-width: 960px;
   margin: 4% auto;
   padding: 0 0px;
@@ -159,7 +159,7 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .video,
 video { 
-      margin: 0px 0px 0px 0px; } 
+      margin: 100px 100px 100px 100px; } 
 /*    <!--  top right bottom left   --> */
 /* Larger than phablet */
  @media (min-width: 550px) {
