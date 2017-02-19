@@ -157,6 +157,9 @@ p {
 
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#locator { position: relative; visibility: visible; left: 20px; bottom: 300px; z-index: 200; } 
+
 /* video { 
       margin: 100px 100px 100px 100px; } 
 /*    <!--  top right bottom left   --> */
