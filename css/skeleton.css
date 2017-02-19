@@ -32,7 +32,7 @@
   position: relative;
   width: 100%;
   max-width: 1000px;
-  margin: 20px auto;
+  margin: 0px auto;
   padding: 0px;
   box-sizing: border-box; 
   }
@@ -56,15 +56,15 @@
   }
 
 
-/* For devices larger than 400px */
-@media (min-width: 400px) {
+/* For devices larger than 300px */
+@media (min-width: 300px) {
   .container {
     width: 85%;
     padding: 0px;
-    margin-left: 20px;}
+    margin-left: 0px;}
     .column1 { 
      position: relative; 
-     margin-left: 0px;} 
+     margin-left: 20px;} 
      }
   .column2 { 
      position: relative; 
@@ -82,7 +82,7 @@
 @media (min-width: 550px) {
   .container {
     width: 90%; 
-    margin-left: 20%;}
+    margin-left: 20px;}
 /*   .column,
   .columns {
     margin-left: 20%; }
