@@ -49,12 +49,12 @@
   } 
 
 
-/* For devices larger than 400px */
-@media (min-width: 400px) {
+/* For devices larger than 200px */
+@media (min-width: 200px) {
   .container {
     width: 85%;
     padding: 5px;
-    margin-left: 20%;}
+    margin-left: 20px;}
     .column1 { 
      position: relative; 
      margin: 0px;} 
