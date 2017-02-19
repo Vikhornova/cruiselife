@@ -81,6 +81,16 @@
   .column:first-child,
   .columns:first-child {
     margin-left: 0; } 
+  
+  .column1 { 
+     position: relative; 
+     margin-left: 0px;} 
+     }
+  .column2 { 
+     position: relative; 
+     margin-left: 0px;
+     margin-top: 10px; } 
+    }
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
