@@ -44,12 +44,10 @@
 
 .column1 { 
   position: relative; 
-  margin: 0px;
   float: left;
   } 
 .column2 { 
   position: relative; 
-  margin: 0px;
   float: left;
   }
 
@@ -84,12 +82,12 @@
   
   .column1 { 
      position: relative; 
-     margin-left: 40px;} 
+     margin-left: 0px;} 
      }
   .column2 { 
      position: relative; 
-     margin-left: 0px;
-     margin-bottom: 150px; } 
+     margin-left: 10px;
+     margin-bottom: 120px; } 
     }
 
   .one.column,
