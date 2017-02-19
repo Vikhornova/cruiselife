@@ -58,7 +58,11 @@
     .column1 { 
      position: relative; 
      margin-left: 40px;} 
-}
+     }
+  .column2 { 
+     position: relative; 
+     margin-left: 100px;} 
+    }
 }
 
 /* For devices larger than 550px */
