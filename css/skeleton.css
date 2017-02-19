@@ -52,12 +52,12 @@
   }
 
 
-/* For devices larger than 200px */
-@media (min-width: 200px) {
+/* For devices larger than 400px */
+@media (min-width: 400px) {
   .container {
     width: 85%;
-    padding: 5px;
-    margin-left: 20px;}
+    padding: 0px;
+    margin-left: 0px;}
     .column1 { 
      position: relative; 
      margin-left: 0px;} 
@@ -87,7 +87,7 @@
   .column2 { 
      position: relative; 
      margin-left: 0px;
-     margin-bottom: 200px; } 
+     margin-bottom: 10px; } 
     }
 
   .one.column,
