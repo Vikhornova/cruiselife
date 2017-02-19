@@ -158,10 +158,10 @@ p {
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 video { 
-      margin: 0; } 
+      margin: 10px 10px 10px 10px; } 
 /* Larger than phablet */
-@media (min-width: 250px) {
-  video { margin: 50; }  
+@media (min-width: 550px) {
+  video { margin: 50px 50px 50px 50px; }  
 }
 
 /* Links
