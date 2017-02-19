@@ -157,13 +157,13 @@ p {
 
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-video { 
+/* video { 
       margin: 10px 10px 10px 10px; } 
 /* Larger than phablet */
-@media (min-width: 550px) {
+/* @media (min-width: 550px) {
   video { margin: 50px 50px 50px 50px; }  
 }
-
+ */
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
