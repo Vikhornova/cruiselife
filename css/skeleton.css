@@ -31,8 +31,8 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 960px;
-  margin: 5% auto;
+  max-width: 1000px;
+  margin: 10px auto;
   padding: 0px;
   box-sizing: border-box; 
   }
@@ -61,7 +61,7 @@
   .container {
     width: 85%;
     padding: 0px;
-    margin-left: 2%;}
+    margin-left: 5px;}
     .column1 { 
      position: relative; 
      margin-left: 0px;} 
