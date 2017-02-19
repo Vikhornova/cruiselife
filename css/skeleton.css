@@ -157,6 +157,7 @@ p {
 
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.video,
 video1 { 
       margin: 0px 0px 0px 0px; } 
 /*    <!--  top right bottom left   --> */
