@@ -81,13 +81,14 @@
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 80%; }
-  .column,
+    width: 80%; 
+    margin-left: 20%;}
+/*   .column,
   .columns {
     margin-left: 20%; }
   .column:first-child,
   .columns:first-child {
-    margin-left: 0; } 
+    margin-left: 0; }  */
   
   .column1 { 
      position: relative; 
