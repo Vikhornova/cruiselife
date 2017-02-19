@@ -157,15 +157,14 @@ p {
 
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.video,
-video { 
+/* video { 
       margin: 100px 100px 100px 100px; } 
 /*    <!--  top right bottom left   --> */
 /* Larger than phablet */
- @media (min-width: 550px) {
+/*  @media (min-width: 550px) {
   video { margin: 10px 0px 120px 50px; }  
  
-}
+} */ 
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
