@@ -158,19 +158,13 @@ p {
 /* Video
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .video,
-video1 { 
+video { 
       margin: 0px 0px 0px 0px; } 
 /*    <!--  top right bottom left   --> */
 /* Larger than phablet */
  @media (min-width: 550px) {
-  video1 { margin: 10px 0px 120px 50px; }  
-}
-video2 { 
-      margin: 0px 0px 0px 0px; } 
-/*    <!--  top right bottom left   --> */
-/* Larger than phablet */
- @media (min-width: 550px) {
-  video2 { margin: 10px 0px 0px 10px; }  
+  video { margin: 10px 0px 120px 50px; }  
+ 
 }
 
 /* Links
