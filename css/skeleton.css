@@ -43,8 +43,8 @@
   box-sizing: border-box; }
 
 .column1 { 
-  position: absolute; 
-  margin: 40px 0px 0px 0px;
+  position: relative; 
+  margin: 100px;
   float: left;
   } 
 
@@ -55,8 +55,8 @@
     width: 85%;
     padding: 0;}
     .column1 { 
-     position: absolute; 
-     margin: 0px 0px 100px 0px;} 
+     position: relative; 
+     margin: 20px;} 
 }
 }
 
