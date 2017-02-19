@@ -54,10 +54,10 @@
   .container {
     width: 85%;
     padding: 5px;
-    margin: 10px;}
+    margin-left: 20%;}
     .column1 { 
      position: relative; 
-     margin: 5px;} 
+     margin: 0px;} 
 }
 }
 
